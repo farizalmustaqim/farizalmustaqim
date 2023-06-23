@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @farizalmustaqim<br>👀 I’m interested in Data Scientist<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on Project Data Science<br>📫 How to reach me at linkedin Fariz Al Mustaqim
+👋 Hi, I’m @farizalmustaqim<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on Project Data Science<br>📫 How to reach me at linkedin Fariz Al Mustaqim
 
 
 ## 🌐 Socials:
